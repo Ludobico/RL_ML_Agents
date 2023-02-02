@@ -1,0 +1,15 @@
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\bin\Debug\net7.0\C#_Basic.exe
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\bin\Debug\net7.0\C#_Basic.deps.json
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\bin\Debug\net7.0\C#_Basic.runtimeconfig.json
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\bin\Debug\net7.0\C#_Basic.dll
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\bin\Debug\net7.0\C#_Basic.pdb
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.csproj.AssemblyReference.cache
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.AssemblyInfoInputs.cache
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.AssemblyInfo.cs
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.csproj.CoreCompileInputs.cache
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.dll
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\refint\C#_Basic.dll
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.pdb
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\C#_Basic.genruntimeconfig.cache
+C:\Users\aqs45\OneDrive\바탕 화면\repo\RL_ML_Agents\C#_Basic\obj\Debug\net7.0\ref\C#_Basic.dll

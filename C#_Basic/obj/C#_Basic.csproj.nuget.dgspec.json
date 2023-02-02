@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\RL_ML_Agents.csproj": {}
+    "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\C#_Basic\\C#_Basic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\RL_ML_Agents.csproj": {
+    "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\C#_Basic\\C#_Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\RL_ML_Agents.csproj",
-        "projectName": "RL_ML_Agents",
-        "projectPath": "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\RL_ML_Agents.csproj",
+        "projectUniqueName": "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\C#_Basic\\C#_Basic.csproj",
+        "projectName": "C#_Basic",
+        "projectPath": "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\C#_Basic\\C#_Basic.csproj",
         "packagesPath": "C:\\Users\\aqs45\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\obj\\",
+        "outputPath": "C:\\Users\\aqs45\\OneDrive\\바탕 화면\\repo\\RL_ML_Agents\\C#_Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aqs45\\AppData\\Roaming\\NuGet\\NuGet.Config"
