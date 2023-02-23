@@ -10,7 +10,7 @@ keyboard_button = pynput.keyboard.Controller()
 keyboard_key = pynput.keyboard.Key
 
 
-MAPNAME = 'Simple96'
+MAPNAME = 'AbyssalReef'
 APM = 300
 APM = int(APM / 18.75)
 UNLIMIT = 0
