@@ -15,3 +15,5 @@
 - com.unity.ml-agents.extensions (C#) v0.4.0-preview
 
 - protobuf  3.2.0
+
+- numpy 1.20
