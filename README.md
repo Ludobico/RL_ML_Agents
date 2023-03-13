@@ -2,7 +2,7 @@
 
 # 버전 정보
 
-- Python 3.8 -> 3.7
+- Python 3.8
 
 - Unity 2021.1.18
 
@@ -13,3 +13,7 @@
 - com.unity.ml-agents (C#) 	v2.0.0
 
 - com.unity.ml-agents.extensions (C#) v0.4.0-preview
+
+- protobuf  3.20
+
+- numpy 1.20
